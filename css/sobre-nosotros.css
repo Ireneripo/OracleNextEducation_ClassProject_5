@@ -1,6 +1,8 @@
 .sobre_nosotros {
   padding-top: 3rem;
   padding-bottom: 3rem;
+  color: var(--fuente-ceniza-oscuro);
+  font-weight: 700;
 }
 
 .sobre_nosotros__titulo {
@@ -34,10 +36,10 @@
   display: none;
 }
 
-.sobre_nosotros {
+/* .sobre_nosotros {
   color: var(--fuente-ceniza-oscuro);
   font-weight: 700;
-}
+} */
 
 /* Media queries */
 
