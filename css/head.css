@@ -34,3 +34,13 @@
   margin-bottom: 0.7rem;
   margin-left: 0.7rem;
 }
+
+/* Media queries */
+
+@media screen and (min-width: 1024px) {
+  .head {
+    flex-direction: row;
+    justify-content: space-between;
+    border: none;
+  }
+}
